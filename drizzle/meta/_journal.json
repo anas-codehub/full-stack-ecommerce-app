@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1749659909748,
+      "tag": "0000_glamorous_stone_men",
+      "breakpoints": true
+    }
+  ]
+}
