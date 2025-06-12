@@ -6,6 +6,7 @@ import path from "node:path";
 
 
 export async function POST(request: Request) {
+    // todo: Check user access
     const data = await request.formData()
 
     let validatedData;
